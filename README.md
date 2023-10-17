@@ -1,5 +1,6 @@
 # Unsupervised Multi-level Spatio-spectral Fusion Transformer for Hyperspectral Image Super-resolution
-
+This is a transformer-based super-resolution algorithm that fuse hyperspectral and multispectral image in a unsupervised manner.  
+***The paper has been submitted to a journal***  
 # Flowchart
 **None**
 # Result presentation
